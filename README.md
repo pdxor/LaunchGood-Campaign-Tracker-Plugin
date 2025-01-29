@@ -47,7 +47,7 @@ Parameters:
 
 Example:
 ```php
-[launchgood_campaign url="https://www.launchgood.com/v4/campaign/your-campaign" refresh="1800"]
+[launchgood_campaign url="YOUR_URL" goal="25000"]
 ```
 
 ### As a Widget

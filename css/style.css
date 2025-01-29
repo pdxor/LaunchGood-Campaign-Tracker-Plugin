@@ -1,0 +1,50 @@
+.launchgood-campaign {
+    max-width: 600px;
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.campaign-progress {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.amount-raised {
+    font-size: 2em;
+    font-weight: bold;
+    color: #4AA567;
+    margin-bottom: 5px;
+}
+
+.goal {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 15px;
+}
+
+.progress-bar {
+    background: #E5E5E5;
+    height: 4px;
+    border-radius: 2px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.progress {
+    background: #4AA567;
+    height: 100%;
+    transition: width 0.3s ease;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    font-size: 0.9em;
+}
+
+.supporters, .days-left {
+    display: inline-block;
+}
